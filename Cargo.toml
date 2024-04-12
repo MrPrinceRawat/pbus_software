@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    'pbus_core',
+    'pbus_webclient',
+    'pbus_webserver',
+    'pbus_db_manager',
+    'pbus_timer'
+, "pbus_config_handler", "utility", "pbus_remotedb_manager"]
